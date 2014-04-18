@@ -1,2 +1,1 @@
-
 void sendServerMessage(unsigned char[]);
