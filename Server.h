@@ -1,0 +1,2 @@
+
+void sendServerMessage(unsigned char[]);
